@@ -1,5 +1,5 @@
 # Experiment
-device_id: cuda
+device_id: cpu
 seed: 42
 epochs: 200
 log_every_n: 5 
